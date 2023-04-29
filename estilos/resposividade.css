@@ -1,0 +1,11 @@
+/* DISPOSITIVOS UM POUCO MAIORES */
+@media screen and (max-width: 768px){
+    .principal {
+        flex-direction: column;
+        height: 210vh;
+    }
+
+    .btn {
+        margin: 30px;
+    }
+}

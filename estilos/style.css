@@ -5,7 +5,7 @@
     border: none;
 } 
 
-main {
+.principal {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,11 +13,7 @@ main {
     height: 100vh;
 }
 
-.a {
-    background-color: #025;
-}
-
-button {
+.btn {
     width: 150px;
     height: 40px;
     background-color: #025;
@@ -37,9 +33,9 @@ button {
 }
 
 .destaque {
-    background-color: #800 !important;
+    background-color: rgb(0, 93, 14) !important;
     color: #fcc !important;
-    border-color: #f00 !important;
+    border-color: rgb(0, 255, 81) !important;
 }
 
 .c1 {
